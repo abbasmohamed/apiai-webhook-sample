@@ -10,3 +10,9 @@ More info about Api.ai webhooks could be found here:
 
 # What does the service do?
 It's a simple echo service that takes `resolvedQuery` and `action` fields from the Api.ai JSON reponse and echoes them back in into `speech` and `displayTest` fields in the fulfillment JSON.
+
+
+
+This Implentation of this api.ai sample is for SanteApp (a learning project of api.ai)
+
+
